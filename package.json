@@ -1,0 +1,27 @@
+{
+  "name": "tax-brackets",
+  "version": "0.1.0",
+  "description": "Easily calculate tax brackets and total payable for progressive taxes",
+  "main": "tax-brackets.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "taxes",
+    "tax",
+    "math",
+    "calculate",
+    "finance"
+  ],
+  "author": "Raphael Cockx",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "mocha": "^5.2.0"
+  }
+}
