@@ -1,7 +1,7 @@
 {
   "name": "tax-brackets",
   "version": "0.1.0",
-  "description": "Easily calculate tax brackets and total payable for progressive taxes",
+  "description": "Easily calculate tax brackets and total payable for progressive taxation systems",
   "main": "tax-brackets.js",
   "scripts": {
     "test": "mocha"
@@ -11,7 +11,8 @@
     "tax",
     "math",
     "calculate",
-    "finance"
+    "finance",
+    "brackets"
   ],
   "author": "Raphael Cockx",
   "license": "MIT",
